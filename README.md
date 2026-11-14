@@ -1,2 +1,2 @@
 # SmartCare
-SmartCare Java Backend Project
+SmartCare Java Project
