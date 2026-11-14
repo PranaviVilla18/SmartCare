@@ -1,0 +1,7 @@
+[33m72fbacb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Add SmartCare Frontend folder
+ Frontend/.gitignore             |   4 [32m+[m
+ Frontend/BackendConnection.java |  65 [32m++++++++++++[m
+ Frontend/ConnectionTest.java    |  12 [32m+++[m
+ Frontend/Main.java              | 221 [32m++++++++++++++++++++++++++++++++++++++++[m
+ Frontend/pom.xml                |  42 [32m++++++++[m
+ 5 files changed, 344 insertions(+)
